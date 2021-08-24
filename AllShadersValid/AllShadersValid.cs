@@ -6,7 +6,7 @@ namespace AllShadersValid
 {
     public class AllShadersValid : NeosMod
     {
-        public override string Name => "Template";
+        public override string Name => "AllShadersValid";
         public override string Author => "eia485";
         public override string Version => "1.0.0";
         public override string Link => "";
