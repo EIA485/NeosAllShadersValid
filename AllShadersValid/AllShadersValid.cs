@@ -20,10 +20,9 @@ namespace AllShadersValid
         class AllShadersValidPatch
         {
              public static bool Prefix(ref Task<bool> __result) {
-                var t = Task<bool>.Run(() => {
+                __result = Task<bool>.Run(() => {
                     return true;
                 });
-                __result = t;
                 return false;
             }
         }
