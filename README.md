@@ -1,6 +1,7 @@
 # AllShadersValid
 
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that lets neos load unverified shaders.
+if you have this mod [AnyShaderAnywhere](https://github.com/eia485/NeosAnyShaderAnywhere) is highly recommended.
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
